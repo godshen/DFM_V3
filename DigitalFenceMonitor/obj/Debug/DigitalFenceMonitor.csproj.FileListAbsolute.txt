@@ -1,0 +1,155 @@
+c:\users\godshen\documents\visual studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\DigitalFenceMonitor.exe.config
+c:\users\godshen\documents\visual studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\DigitalFenceMonitor.exe
+c:\users\godshen\documents\visual studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\DigitalFenceMonitor.pdb
+c:\users\godshen\documents\visual studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.csprojResolveAssemblyReference.cache
+c:\users\godshen\documents\visual studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.Properties.Resources.resources
+c:\users\godshen\documents\visual studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.csproj.GenerateResource.Cache
+c:\users\godshen\documents\visual studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.exe
+c:\users\godshen\documents\visual studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.pdb
+C:\Users\GodShen\documents\visual studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormMain.resources
+C:\Users\GodShen\documents\visual studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormLogin.resources
+C:\Users\GodShen\documents\visual studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormTCPIP.resources
+C:\Users\GodShen\documents\visual studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\mysql.data.dll
+C:\Users\GodShen\documents\visual studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\mysql.data.entity.dll
+C:\Users\GodShen\documents\visual studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\mysql.visualstudio.dll
+C:\Users\GodShen\documents\visual studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\mysql.web.dll
+C:\Users\GodShen\documents\visual studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\EnvDTE.dll
+C:\Users\GodShen\documents\visual studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\EnvDTE80.dll
+C:\Users\GodShen\documents\visual studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\Microsoft.MSXML.dll
+C:\Users\GodShen\documents\visual studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\stdole.dll
+C:\Users\GodShen\documents\visual studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormStaSet.resources
+C:\Users\GodShen\documents\visual studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormDenfenAreaSet.resources
+C:\Users\GodShen\documents\visual studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormDigitalMap.resources
+C:\Users\GodShen\documents\visual studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormDefenAreaAdd.resources
+C:\Users\GodShen\documents\visual studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormLinkage.resources
+C:\Users\GodShen\documents\visual studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormAlertAddress.resources
+C:\Users\Zhonghao\Documents\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\DigitalFenceMonitor.exe.config
+C:\Users\Zhonghao\Documents\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.exe
+C:\Users\Zhonghao\Documents\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.pdb
+C:\Users\Zhonghao\Documents\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\DigitalFenceMonitor.exe
+C:\Users\Zhonghao\Documents\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\DigitalFenceMonitor.pdb
+C:\Users\Zhonghao\Documents\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\mysql.data.dll
+C:\Users\Zhonghao\Documents\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\mysql.data.entity.dll
+C:\Users\Zhonghao\Documents\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\mysql.visualstudio.dll
+C:\Users\Zhonghao\Documents\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\mysql.web.dll
+C:\Users\Zhonghao\Documents\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\EnvDTE.dll
+C:\Users\Zhonghao\Documents\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\EnvDTE80.dll
+C:\Users\Zhonghao\Documents\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Zhonghao\Documents\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\stdole.dll
+C:\Users\Zhonghao\Documents\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Zhonghao\Documents\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormMain.resources
+C:\Users\Zhonghao\Documents\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormAlertAddress.resources
+C:\Users\Zhonghao\Documents\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormDefenAreaAdd.resources
+C:\Users\Zhonghao\Documents\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormDenfenAreaSet.resources
+C:\Users\Zhonghao\Documents\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormDigitalMap.resources
+C:\Users\Zhonghao\Documents\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormLinkage.resources
+C:\Users\Zhonghao\Documents\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormStaSet.resources
+C:\Users\Zhonghao\Documents\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormTCPIP.resources
+C:\Users\Zhonghao\Documents\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormLogin.resources
+C:\Users\Zhonghao\Documents\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.Properties.Resources.resources
+C:\Users\Zhonghao\Documents\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.csproj.GenerateResource.Cache
+D:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\DigitalFenceMonitor.exe.config
+D:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.exe
+D:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.pdb
+D:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\DigitalFenceMonitor.exe
+D:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\DigitalFenceMonitor.pdb
+D:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\mysql.data.dll
+D:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\mysql.data.entity.dll
+D:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\mysql.web.dll
+D:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.csprojResolveAssemblyReference.cache
+D:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormMain.resources
+D:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormAlertAddress.resources
+D:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormDefenAreaAdd.resources
+D:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormDenfenAreaSet.resources
+D:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormDigitalMap.resources
+D:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormLinkage.resources
+D:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormStaSet.resources
+D:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormTCPIP.resources
+D:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormLogin.resources
+D:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.Properties.Resources.resources
+D:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.csproj.GenerateResource.Cache
+D:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.SystemConfig.resources
+E:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\DigitalFenceMonitor.exe.config
+E:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.exe
+E:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.pdb
+E:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\DigitalFenceMonitor.exe
+E:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\DigitalFenceMonitor.pdb
+E:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\mysql.data.dll
+E:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\mysql.data.entity.dll
+E:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\mysql.web.dll
+E:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.csprojResolveAssemblyReference.cache
+E:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormMain.resources
+E:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormAlertAddress.resources
+E:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormDefenAreaAdd.resources
+E:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormDenfenAreaSet.resources
+E:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormDigitalMap.resources
+E:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormLinkage.resources
+E:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormStaSet.resources
+E:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormTCPIP.resources
+E:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormLogin.resources
+E:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.Properties.Resources.resources
+E:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.SystemConfig.resources
+E:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.csproj.GenerateResource.Cache
+E:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\mysql.visualstudio.dll
+E:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\EnvDTE.dll
+E:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\EnvDTE80.dll
+E:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\Microsoft.MSXML.dll
+E:\Document\Visual Studio 2015\Projects\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\stdole.dll
+E:\Document\Github\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\DigitalFenceMonitor.exe.config
+E:\Document\Github\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.exe
+E:\Document\Github\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.pdb
+E:\Document\Github\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\DigitalFenceMonitor.exe
+E:\Document\Github\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\DigitalFenceMonitor.pdb
+E:\Document\Github\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\mysql.data.dll
+E:\Document\Github\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\mysql.data.entity.dll
+E:\Document\Github\DigitalFenceMonitor\DigitalFenceMonitor\bin\Debug\mysql.web.dll
+E:\Document\Github\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.csprojResolveAssemblyReference.cache
+E:\Document\Github\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormMain.resources
+E:\Document\Github\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormDefenAreaAdd.resources
+E:\Document\Github\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormDenfenAreaSet.resources
+E:\Document\Github\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormDigitalMap.resources
+E:\Document\Github\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormLinkage.resources
+E:\Document\Github\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormStaSet.resources
+E:\Document\Github\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormLogin.resources
+E:\Document\Github\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.Properties.Resources.resources
+E:\Document\Github\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.SystemConfig.resources
+E:\Document\Github\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.csproj.GenerateResource.Cache
+E:\Document\Github\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.SingleSet.resources
+E:\Document\Github\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.EditNodeName.resources
+E:\Document\Github\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.AlertSearch.resources
+E:\Document\Github\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormMusic.resources
+E:\Document\Github\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.UserSet.resources
+E:\Document\Github\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.AboutCMS.resources
+E:\Document\Github\DigitalFenceMonitor\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.AlertContent.resources
+E:\Document\Github\DFM_V2-\DigitalFenceMonitor\bin\Debug\DigitalFenceMonitor.exe.config
+E:\Document\Github\DFM_V2-\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.csproj.ResolveComReference.cache
+E:\Document\Github\DFM_V2-\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.exe
+E:\Document\Github\DFM_V2-\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.pdb
+E:\Document\Github\DFM_V2-\DigitalFenceMonitor\bin\Debug\DigitalFenceMonitor.exe
+E:\Document\Github\DFM_V2-\DigitalFenceMonitor\bin\Debug\DigitalFenceMonitor.pdb
+E:\Document\Github\DFM_V2-\DigitalFenceMonitor\bin\Debug\mysql.data.dll
+E:\Document\Github\DFM_V2-\DigitalFenceMonitor\bin\Debug\mysql.data.entity.dll
+E:\Document\Github\DFM_V2-\DigitalFenceMonitor\bin\Debug\mysql.web.dll
+E:\Document\Github\DFM_V2-\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.csprojResolveAssemblyReference.cache
+E:\Document\Github\DFM_V2-\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.AboutCMS.resources
+E:\Document\Github\DFM_V2-\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.AlertSearch.resources
+E:\Document\Github\DFM_V2-\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormStaChange.resources
+E:\Document\Github\DFM_V2-\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.EditNodeName.resources
+E:\Document\Github\DFM_V2-\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormMain.resources
+E:\Document\Github\DFM_V2-\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormDefenAreaAdd.resources
+E:\Document\Github\DFM_V2-\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormDefenceAreaChange.resources
+E:\Document\Github\DFM_V2-\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormDenfenAreaSet.resources
+E:\Document\Github\DFM_V2-\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormDigitalMap.resources
+E:\Document\Github\DFM_V2-\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormLinkage.resources
+E:\Document\Github\DFM_V2-\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormMusic.resources
+E:\Document\Github\DFM_V2-\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormStaSet.resources
+E:\Document\Github\DFM_V2-\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.FormLogin.resources
+E:\Document\Github\DFM_V2-\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.Properties.Resources.resources
+E:\Document\Github\DFM_V2-\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.SingleSet.resources
+E:\Document\Github\DFM_V2-\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.SystemConfig.resources
+E:\Document\Github\DFM_V2-\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.UserSet.resources
+E:\Document\Github\DFM_V2-\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.csproj.GenerateResource.Cache
+E:\Document\Github\DFM_V2\DigitalFenceMonitor\bin\Debug\DigitalFenceMonitor.exe.config
+E:\Document\Github\DFM_V2\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.csproj.ResolveComReference.cache
+E:\Document\Github\DFM_V2\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.exe
+E:\Document\Github\DFM_V2\DigitalFenceMonitor\obj\Debug\DigitalFenceMonitor.pdb
